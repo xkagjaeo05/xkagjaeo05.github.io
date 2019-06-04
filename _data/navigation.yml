@@ -1,3 +1,8 @@
 main:
   - title: "Past Kaggle Competition"
     url: /past-kaggle-competition-archive/
+  - title: "ML/DL Concept"
+    url :/ml_dl-archive/
+  - title: "Recommandation System"
+    url :/recommandation-archive
+ 
